@@ -1,0 +1,91 @@
+name,age,gender,survive,death_date,rescue,party_date,mountains,camp
+George Donner,60,M,0,03/27/1847,,07/19/1846,1,AC
+Tamsen Donner,45,F,0,03/28/1847,,07/19/1846,1,AC
+Frances Donner,6,F,1,,3,07/19/1846,1,AC
+Georgia Donner,4,F,1,,3,07/19/1846,1,AC
+Eliza Donner,3,F,1,,3,07/19/1846,1,AC
+Elitha Cumi Donner,13,F,1,,1,07/19/1846,1,AC
+Leanna Donner,11,F,1,,1,07/19/1846,1,AC
+Jacob Donner,56,M,0,12/15/1846,,07/19/1846,1,AC
+Elizabeth Donner,45,F,0,04/01/1847,,07/19/1846,1,AC
+George Donner II,9,M,1,,1,07/19/1846,1,AC
+Mary Donner,7,F,1,,3,07/19/1846,1,AC
+Isaac Donner,5,M,0,03/07/1847,,07/19/1846,1,AC
+Samuel Donner,4,M,0,03/12/1847,,07/19/1846,1,AC
+Lewis Donner,3,M,0,03/07/1847,,07/19/1846,1,AC
+Solomon Hook,14,M,1,,2,07/19/1846,1,AC
+William Hook,12,M,0,02/28/1847,,07/19/1846,1,AC
+Noah James,16,M,1,,1,07/19/1846,1,AC
+Samuel Shoemaker,25,M,0,12/15/1846,,07/19/1846,1,AC
+John Denton,30,M,0,02/24/1847,,07/19/1846,1,AC
+James Reed,45,M,1,,0,07/19/1846,0,
+Margaret Reed,32,F,1,,1,07/19/1846,1,LC
+Martha Reed,8,F,1,,2,07/19/1846,1,LC
+James Reed II,6,M,1,,1,07/19/1846,1,LC
+Thomas Reed,4,M,1,,2,07/19/1846,1,LC
+Virginia Reed,13,F,1,,1,07/19/1846,1,LC
+Eliza Williams,31,F,1,,1,07/19/1846,1,LC
+Baylis Williams,25,M,0,12/15/1846,,07/19/1846,1,LC
+Milford Elliott,28,M,0,02/09/1847,,07/19/1846,1,LC
+Walter Herron,27,M,1,,0,07/19/1846,0,
+James Smith,25,M,0,12/15/1846,,07/19/1846,1,AC
+Patrick Breen,51,M,1,,3,07/19/1846,1,LC
+Margaret Breen,40,F,1,,3,07/19/1846,1,LC
+John Breen,14,M,1,,3,07/19/1846,1,LC
+Edward Breen,13,M,1,,1,07/19/1846,1,LC
+Patrick Breen II,9,M,1,,3,07/19/1846,1,LC
+Simon Breen,8,M,1,,1,07/19/1846,1,LC
+Peter Breen,3,M,1,,3,07/19/1846,1,LC
+James Breen,5,M,1,,3,07/19/1846,1,LC
+Isabella Breen,1,F,1,,3,07/19/1846,1,LC
+Patrick Dolan,35,M,0,12/26/1846,,07/19/1846,1,LC
+William Eddy,30,M,1,,0,07/19/1846,1,LC
+Eleanor Eddy,25,F,0,02/07/1847,,07/19/1846,1,LC
+Margaret Eddy,1,F,0,02/04/1847,,07/19/1846,1,LC
+James Eddy,3,M,0,03/01/1847,,07/19/1846,1,LC
+Lavinia Murphy,36,F,0,03/31/1847,,07/19/1846,1,LC
+Landrum Murphy,16,M,0,01/31/1847,,07/19/1846,1,LC
+Mary Murphy,14,F,1,,1,07/19/1846,1,LC
+Lemuel Murphy,12,M,0,12/27/1846,,07/19/1846,1,LC
+William Murphy,10,M,1,,1,07/19/1846,1,LC
+Simon Murphy,8,M,1,,3,07/19/1846,1,LC
+Sarah Murphy Foster,19,F,1,,0,07/19/1846,1,LC
+William Foster,30,M,1,,0,07/19/1846,1,LC
+George Foster,1,M,0,03/15/1847,,07/19/1846,1,LC
+Harriet Murphy Pike,18,F,1,,0,07/19/1846,1,LC
+William Pike,32,M,0,10/31/1846,,07/19/1846,0,LC
+Naomi Pike,2,F,1,,1,07/19/1846,1,LC
+Catherine Pike,1,F,0,02/20/1847,,07/19/1846,1,LC
+Lewis Keseberg,32,M,1,,4,07/19/1846,1,LC
+Philippine Keseberg,23,F,1,,1,07/19/1846,1,LC
+Ada Keseberg,3,F,0,02/25/1847,,07/19/1846,1,LC
+Lewis Keseberg II,1,M,0,01/24/1847,,07/19/1846,1,LC
+Charles Berger,30,M,0,12/29/1846,,07/19/1846,1,LC
+Hardkoop,60,M,0,10/08/1846,,07/19/1846,0,
+Wolfinger,26,M,0,10/15/1846,,07/19/1846,0,
+Doriss Wolfinger,20,F,1,,1,07/19/1846,1,AC
+Augustus Spitzer,30,M,0,02/08/1847,,07/19/1846,1,LC
+Joseph Reinhardt,30,M,0,12/15/1846,,07/19/1846,1,AC
+William McCutchen,30,M,1,,0,07/31/1846,0,
+Amanda McCutchen,25,F,1,,0,07/31/1846,1,LC
+Harriet McCutchen,1,F,0,02/02/1847,,07/31/1846,1,LC
+Franklin Graves,57,M,0,12/25/1846,,08/08/1846,1,LC
+Elizabeth Graves,45,F,0,03/04/1847,,08/08/1846,1,LC
+Mary Graves,19,F,1,,0,08/08/1846,1,LC
+William Graves,17,M,1,,1,08/08/1846,1,LC
+Eleanor Graves,14,F,1,,1,08/08/1846,1,LC
+Lovina Graves,12,F,1,,1,08/08/1846,1,LC
+Nancy Graves,9,F,1,,3,08/08/1846,1,LC
+Jonathan Graves,7,M,1,,3,08/08/1846,1,LC
+Franklin Graves II,5,M,0,03/11/1847,,08/08/1846,1,LC
+Elizabeth Graves II,1,F,1,,3,08/08/1846,1,LC
+Sarah Graves Fosdick,21,F,1,,0,08/08/1846,1,LC
+Jay Fosdick,23,M,0,01/04/1847,,08/08/1846,1,LC
+John Snyder,25,M,0,10/05/1846,,08/08/1846,0,
+Charles Stanton,35,M,0,12/21/1846,,07/19/1846,1,LC
+Luke Halloran,25,M,0,08/25/1846,,07/19/1846,0,
+Antonio,23,M,0,12/25/1846,,07/19/1846,1,LC
+Jean Baptiste Trudeau,16,M,1,,3,07/31/1846,1,AC
+Luis,19,M,0,01/19/1847,,10/30/1846,1,LC
+Salvador,28,M,0,01/19/1847,,10/30/1846,1,LC
+,,,,,,,,
